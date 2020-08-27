@@ -1,0 +1,223 @@
+body
+{
+  background-color: #3d0e1e;
+}
+.Image1
+{
+  position: relative;
+  left:0px;
+  top: 430px;
+  opacity: 0.9;
+  height: 1500px;
+  border-radius: 0px;
+  border-bottom-style: solid;
+  width: 1000px;
+  box-shadow:90px 90px 90px #000000;
+
+
+}
+.Image2
+{
+  width:1500px;
+  height: 1500px;
+  position: relative;
+  right: 260px;
+  opacity: 0.7;
+  border-radius: 0px;
+  border-top-style: solid;
+  box-shadow:125px 105px 82px #000000;
+}
+.Image3
+{
+  width: 1000px;
+  position: relative;
+  bottom: 200px;
+  left: 2060px;
+  opacity: 0.76;
+  border-radius: 0px;
+  border-bottom-style: solid;
+  box-shadow:95px 95px 80px #000000;
+
+}
+.Image4
+{
+  position: relative;
+  bottom: 920px;
+  left:1380px;
+  opacity: 0.8;
+  border-radius: 0px;
+  box-shadow:90px 105px 70px #000000;
+  width: 720px;
+
+}
+.Name1
+{
+  font-size: 120px;
+  position: absolute;
+  top:  80px;
+  left:130px;
+  bottom:2100px;
+  opacity: 1;
+  color: #b80d57;
+  background-color: #f6e7e6;
+  text-shadow:5px 5px 5px #f1935c;
+  width:1000px;
+  letter-spacing: 5px;
+  font-family: 'Satisfy', cursive;
+  font-style: italic;
+
+}
+.Name2
+{
+  font-size: 120px;
+  position: absolute;
+  top:  200px;
+  left:0px;
+  bottom: 1100px;
+  opacity: 1;
+  color: #b80d57;
+  /*background-color: #f6e7e6;*/
+  text-shadow:5px 5px 5px #f1935c;
+  letter-spacing: 5px;
+  font-family: 'Satisfy', cursive;
+  font-style: italic;
+  width: 800px;
+
+}
+.Since
+{
+  position: absolute;
+  top:80px;
+  right: 200px;
+  font-size: 80px;
+  color:#f67280;
+}
+.about
+{
+font-family: 'Merriweather', serif;
+  position: absolute;
+  top:210px;
+  right: 80px;
+  font-size: 40px;
+  color:#f67280;
+  width: 700px;
+}
+.Buttonone
+{
+  position: absolute;
+  bottom: 0px;
+  top: 1620px;
+  left: 1300px;
+  text-align: center;
+  width: 350px;
+  font-size: 30px;
+  height: 100px;
+  border-radius: 34px;
+  background-color:#2b580c;
+  font-style: bold;
+  font-weight: 700;
+  border: none;
+}
+.Buttonone:hover
+{
+  background-color: #f3c623;
+}
+.linestyle1
+{
+  color: #af8baf;
+  border-bottom: 0;
+  border-top: 0;
+  border-style: dotted;
+  border-width: 18px;
+  width:4%;
+  position: absolute;
+  left:1400px;
+  top: 1726px;
+  border-spacing: 1px;
+
+}
+
+.linestyle2
+{
+  color: #af8baf;
+  border-bottom: 0;
+  border-top: 0;
+  border-style: dotted;
+  border-width: 18px;
+  width:4%;
+  position: absolute;
+  left:1400px;
+  top: 1892px;
+  border-spacing: 1px;
+
+}
+.nav-link
+{
+  font-size: 25px;
+  background-color:#2b580c;
+  border: none;
+  border-radius: 20px;
+  height: 50px;
+  width:200px;
+  color:yellow;
+}
+
+.Buttontwo
+{
+  position: absolute;
+  bottom: 0px;
+  top: 1790px;
+  left: 1300px;
+  text-align: center;
+  width: 350px;
+  font-size: 30px;
+  height: 100px;
+  border-radius: 34px;
+  background-color:#2b580c;
+  font-style: bold;
+  font-weight: 700;
+  border: none;
+}
+.Buttontwo:hover
+{
+  background-color: #f3c623;
+}
+/*.linestyle
+{
+  color: #af8baf;
+  border-bottom: 0;
+  border-style: dotted;
+  border-width: 18px;
+  width:4%;
+  position: absolute;
+  left:1400px;
+  top: 1850px;
+  border-spacing: 1px;
+
+}*/
+.colorToYellow
+{
+  color: yellow;
+  background-color: yellow;
+}
+
+.Buttonthree
+{
+  position: absolute;
+  bottom: 0px;
+  top: 1960px;
+  left: 1300px;
+  text-align: center;
+  width: 350px;
+  font-size: 30px;
+  height: 100px;
+  border-radius: 34px;
+  background-color:#2b580c;
+  font-style: bold;
+  font-weight: 700;
+  border: none;
+}
+.Buttonthree:hover
+{
+  background-color: #f3c623;
+}
